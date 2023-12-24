@@ -5,7 +5,7 @@
 위도와 경도를 기반으로 하는 현재 위치 또는 지정 위치에 따라 날씨 정보를 확인할 수 있는 앱
 
 ### 🙋 팀원
-|bello|roks|
+|[@bello](https://github.com/JinUng41)| [@Roks](https://github.com/KimRoks) |
 |-----|----|
 |<img src="https://github.com/KimRoks/ios-weather-forecast/assets/113083860/a9763525-4838-4353-a186-0d403d2fc080)" width="180" height="180" alt="[IMG_1356 PNG]">|<img src="https://github.com/KimRoks/ios-weather-forecast/assets/113083860/31c76394-e6fd-488b-94a6-de0025bd5135)" width="180" height="180" alt="[IMG_5293]">|
 
